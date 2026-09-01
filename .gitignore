@@ -1,0 +1,12 @@
+# 教案仓库忽略规则
+# 临时/系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 编辑器临时文件
+*.swp
+*~
+
+# Word 打开/保存 .doc 时生成的辅助文件夹
+*.files/
