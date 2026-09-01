@@ -12,9 +12,9 @@
      mso-paper-source:0;}
   div.Section1 { page: Section1; }
   body { font-family: "微软雅黑", "Microsoft YaHei", sans-serif; font-size: 10.5pt; line-height: 1.35; margin: 0; }
-  h1 { font-size: 16pt; text-align: center; margin: 4px 0 8px; }
-  h2 { font-size: 13pt; margin: 6px 0 3px; border-bottom: 1px solid #999; padding-bottom: 2px; }
-  h3 { font-size: 11.5pt; margin: 5px 0 1px; }
+  h1 { font-size: 14pt; text-align: center; margin: 4px 0 8px; }
+  h2 { font-size: 12pt; margin: 6px 0 3px; border-bottom: 1px solid #999; padding-bottom: 2px; }
+  h3 { font-size: 11pt; margin: 5px 0 1px; page-break-after: avoid; }
   p { margin: 2px 0; }
   .ans { font-weight: bold; }
 </style>
@@ -22,7 +22,7 @@
 <body>
 
 <div style='mso-element:header' id='h1'>
-<p style='margin:0in; text-align:center; font-size:9pt; color:#666;'>万蓉蓉 · 奥数每日训练 · 课时 1–2（答案）</p>
+<p style='margin:0in; text-align:right; font-size:9pt; color:#666;'>万蓉蓉 · 奥数每日训练 · 课时 1–2（答案）</p>
 </div>
 
 <div class='Section1'>

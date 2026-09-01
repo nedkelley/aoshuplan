@@ -1,0 +1,105 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>课时1-2 每日训练 答案详解</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View></w:WordDocument></xml><![endif]-->
+<style>
+  @page Section1
+    {size:595.3pt 841.9pt;
+     margin:36.0pt 45.0pt 36.0pt 45.0pt;
+     mso-header-margin:24.0pt;
+     mso-footer-margin:24.0pt;
+     mso-paper-source:0;}
+  div.Section1 { page: Section1; }
+  body { font-family: "微软雅黑", "Microsoft YaHei", sans-serif; font-size: 10.5pt; line-height: 1.35; margin: 0; }
+  h1 { font-size: 14pt; text-align: center; margin: 4px 0 8px; }
+  h2 { font-size: 12pt; margin: 6px 0 3px; border-bottom: 1px solid #999; padding-bottom: 2px; }
+  h3 { font-size: 11pt; margin: 5px 0 1px; page-break-after: avoid; }
+  p { margin: 2px 0; }
+  .ans { font-weight: bold; }
+</style>
+</head>
+<body>
+
+<div style='mso-element:header' id='h1'>
+<p style='margin:0in; text-align:right; font-size:9pt; color:#666;'>陈姿瑜 · 奥数每日训练 · 课时 1–2（答案）</p>
+</div>
+
+<div class='Section1'>
+
+<h1>课时 1–2 每日训练 · 答案详解</h1>
+
+<h2>第 1 天</h2>
+
+<h3>1（★4）</h3>
+<p class="ans">= 50</p>
+<p>提取公因数 5：5×（7 + 3）= 5×10 = 50。</p>
+
+<h3>2（★4）</h3>
+<p class="ans">= 700</p>
+<p>把 5 拆成 2+3：(398+2) + (297+3) = 400 + 300 = 700。</p>
+
+<h2>第 2 天</h2>
+
+<h3>3（★5）</h3>
+<p class="ans">= 132</p>
+<p>6×9 出现 3 次：3×6×9 − 6×5 = 162 − 30 = 132。或提取 6：6×（27−5）= 6×22 = 132。</p>
+
+<h3>4（★5）</h3>
+<p class="ans">= 900</p>
+<p>带符号搬家配对：(534−134) + (266+234) = 400 + 500 = 900。</p>
+
+<h2>第 3 天</h2>
+
+<h3>5（★5）</h3>
+<p class="ans">□ = 6</p>
+<p>9×（□ + 2）= 9×8，所以 □ + 2 = 8，□ = 6。</p>
+
+<h3>6（★5）</h3>
+<p class="ans">= 20 棵</p>
+<p>四边共 4×6 = 24 棵，四个角各重复算了一次，减去 4：24 − 4 = 20 棵。</p>
+
+<h2>第 4 天</h2>
+
+<h3>7（★5）</h3>
+<p class="ans">末尾 = 7</p>
+<p>7 连乘末尾：7、9、3、1 循环（每 4 个一循环）。9÷4 = 2 余 1，末尾 = 第 1 个 = 7。</p>
+
+<h3>8（★5）</h3>
+<p class="ans">= 25</p>
+<p>一加一减配对：(50−49)+(48−47)+…+(2−1)，每组 = 1，共 50÷2 = 25 组 = 25。</p>
+
+<h2>第 5 天</h2>
+
+<h3>9（★5）</h3>
+<p class="ans">□ + △ = 9</p>
+<p>6×（□ + △）= 54，所以 □ + △ = 9。</p>
+
+<h3>10（★5）</h3>
+<p class="ans">= 870</p>
+<p>把 9 拆成 3+3+3：(7+3) + (77+3) + (777+3) = 10 + 80 + 780 = 870。</p>
+
+<h2>第 6 天</h2>
+
+<h3>11（★5+）</h3>
+<p class="ans">= 116</p>
+<p>4×9 出现 4 次：4×4×9 − 4×7 = 144 − 28 = 116。或提取 4：4×（36−7）= 4×29 = 116。</p>
+
+<h3>12（★5）</h3>
+<p class="ans">10、11、12、13、14</p>
+<p>中间数 = 60÷5 = 12，所以五个数是 10、11、12、13、14。</p>
+
+<h2>第 7 天</h2>
+
+<h3>13（★5）</h3>
+<p class="ans">= 200</p>
+<p>600 − 137 − 63 − 200 = 600 −（137+63）− 200 = 600 − 200 − 200 = 200。</p>
+
+<h3>14（★6）</h3>
+<p class="ans">= 64 人</p>
+<p>去掉一行一列后剩 49 = 7×7，说明剩下的是 7×7 的方阵；原来每排比它多 1，即 8 人。原来方阵 8×8 = 64 人。</p>
+
+</div>
+
+</body>
+</html>
