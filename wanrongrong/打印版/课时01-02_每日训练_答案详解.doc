@@ -1,0 +1,106 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>课时1-2 每日训练 答案详解</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View></w:WordDocument></xml><![endif]-->
+<style>
+  @page Section1
+    {size:595.3pt 841.9pt;
+     margin:36.0pt 45.0pt 36.0pt 45.0pt;
+     mso-header-margin:24.0pt;
+     mso-footer-margin:24.0pt;
+     mso-paper-source:0;}
+  div.Section1 { page: Section1; }
+  body { font-family: "微软雅黑", "Microsoft YaHei", sans-serif; font-size: 10.5pt; line-height: 1.35; margin: 0; }
+  h1 { font-size: 16pt; text-align: center; margin: 4px 0 8px; }
+  h2 { font-size: 13pt; margin: 6px 0 3px; border-bottom: 1px solid #999; padding-bottom: 2px; }
+  h3 { font-size: 11.5pt; margin: 5px 0 1px; }
+  p { margin: 2px 0; }
+  .ans { font-weight: bold; }
+</style>
+</head>
+<body>
+
+<div style='mso-element:header' id='h1'>
+<p style='margin:0in; text-align:center; font-size:9pt; color:#666;'>万蓉蓉 · 奥数每日训练 · 课时 1–2（答案）</p>
+</div>
+
+<div class='Section1'>
+
+<h1>课时 1–2 每日训练 · 答案详解</h1>
+
+<h2>第 1 天</h2>
+
+<h3>1（★4）</h3>
+<p class="ans">= 7650</p>
+<p>能被 6 整除：6, 12, …, 300，共（300−6）÷6 + 1 = 50 项；和 =（6 + 300）× 50 ÷ 2 = 306 × 25 = 7650。</p>
+
+<h3>2（★5）</h3>
+<p class="ans">= 25</p>
+<p>把 2.5×6.4 改写成 0.25×64（点动积不变）。原式 = 0.25×36 + 0.25×64 = 0.25×（36+64）= 0.25×100 = 25。</p>
+
+<h2>第 2 天</h2>
+
+<h3>3（★5）</h3>
+<p class="ans">首项 = 11，公差 = 2</p>
+<p>前 12 项和 = 6(2a+11d) = 264 → 2a+11d = 44 ①；第 12 项 = a+11d = 33 ②。①−②：a = 11；代回②：11+11d = 33 → d = 2。</p>
+
+<h3>4（★5）</h3>
+<p class="ans">= 7/8</p>
+<p>1/2 = 1/(1×2)，1/6 = 1/(2×3)，…，1/56 = 1/(7×8)。裂项 = (1−1/2)+(1/2−1/3)+…+(1/7−1/8) = 1 − 1/8 = 7/8。</p>
+
+<h2>第 3 天</h2>
+
+<h3>5（★4）</h3>
+<p class="ans">第 20 项 = 79</p>
+<p>公差 =（35−11）÷6 = 4；首项 = 11 − 2×4 = 3。第 20 项 = 3 + 19×4 = 79。</p>
+
+<h3>6（★5）</h3>
+<p class="ans">= 1/10</p>
+<p>每个括号 = (k−1)/k，乘积 = 2/3 × 3/4 × 4/5 × … × 19/20。连锁约分只剩 2/20 = 1/10。</p>
+
+<h2>第 4 天</h2>
+
+<h3>7（★4）</h3>
+<p class="ans">= 650</p>
+<p>Σn² = n(n+1)(2n+1)/6。n = 12：12×13×25÷6 = 650。</p>
+
+<h3>8（★6）</h3>
+<p class="ans">= 5/24</p>
+<p>分母 2×4、4×6、… 两因数相差 2，用 1/[n(n+2)] = (1/2)(1/n − 1/(n+2))。原式 = (1/2)(1/2 − 1/4 + 1/4 − 1/6 + … + 1/10 − 1/12) = (1/2)(1/2 − 1/12) = (1/2)×5/12 = 5/24。</p>
+
+<h2>第 5 天</h2>
+
+<h3>9（★5+）</h3>
+<p class="ans">= 2451</p>
+<p>第 n 项 = n(n+2) = n² + 2n，前 18 项和 = Σn² + 2Σn。Σn²(18) = 18×19×37÷6 = 2109；2Σn = 2×18×19÷2 = 342。总和 = 2109 + 342 = 2451。</p>
+
+<h3>10（★5）</h3>
+<p class="ans">= 16</p>
+<p>0.16×73 改写成 1.6×7.3（点动积不变）。原式 = 1.6×2.7 + 1.6×7.3 = 1.6×（2.7+7.3）= 1.6×10 = 16。</p>
+
+<h2>第 6 天</h2>
+
+<h3>11（★5）</h3>
+<p class="ans">首项 = 5，公差 = 2</p>
+<p>前 12 项和 = 12a+66d = 192；后 12 项和 =（第 13–24 项）= 12a+210d = 480。两式相减：144d = 288 → d = 2；代回：12a+132 = 192 → a = 5。</p>
+
+<h3>12（★6）</h3>
+<p class="ans">= 13/24</p>
+<p>1 − 1/k² = (k−1)(k+1)/k²，连乘 k=2..12 后分子分母交叉约分，只剩首尾。结果 = (12+1)/(2×12) = 13/24。</p>
+
+<h2>第 7 天</h2>
+
+<h3>13（★5+）</h3>
+<p class="ans">= 2560</p>
+<p>第 n 项 = 4n − 2。能被 5 整除需 4n−2 ≡ 0（mod 5），即 n ≡ 3（mod 5），项号取 3, 8, 13, …, 78。</p>
+<p>个数 =（78−3）÷5 + 1 = 16；对应项为 10, 30, 50, …, 310（首 10、公差 20）。和 =（10 + 310）× 16 ÷ 2 = 320 × 8 = 2560。</p>
+
+<h3>14（★6+）</h3>
+<p class="ans">= 40/21</p>
+<p>1 + 2 + … + n = n(n+1)/2，故 1/(1+…+n) = 2/[n(n+1)] = 2×(1/n − 1/(n+1))。总和 = 2×(1 − 1/2 + 1/2 − 1/3 + … + 1/20 − 1/21) = 2×(1 − 1/21) = 2×20/21 = 40/21。</p>
+
+</div>
+
+</body>
+</html>
